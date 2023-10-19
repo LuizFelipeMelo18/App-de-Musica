@@ -14,27 +14,27 @@ const music = new Audio();
 
 const songs = [
     {
-        path: 'assets/1.music.mp3',
+        path: '1.music.mp3',
         displayName: 'Delirios',
-        cover: 'assets/1.img.jpg',
+        cover: '1.img.jpg',
         artist: 'FBC',
     },
     {
-        path: 'assets/2.music.mp3',
+        path: '2.music.mp3',
         displayName: 'Run',
-        cover: 'assets/2.img.jpg',
+        cover: '2.img.jpg',
         artist: 'Joji',
     },
     {
-        path: 'assets/3.music.mp3',
+        path: '3.music.mp3',
         displayName: 'Gilmpse of Us',
-        cover: 'assets/3.img.jpg',
+        cover: '3.img.jpg',
         artist: 'Joji',
     },
     {
-        path: 'assets/4.music.mp3',
+        path: '4.music.mp3',
         displayName: 'Paradise',
-        cover: 'assets/4.img.jpg',
+        cover: '4.img.jpg',
         artist: 'ColdPlay',
     }
 ];
